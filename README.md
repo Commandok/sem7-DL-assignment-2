@@ -1,4 +1,4 @@
-# sem7-DL-assignment-2
+# DL-assignment-2
 
 Deep Learning assignment, Section B. A compact Inception-style CNN is trained from scratch on 500 CIFAR-10 training images and evaluated on both the clean test set and a shifted test set.
 
